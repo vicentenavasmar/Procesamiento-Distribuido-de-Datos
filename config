@@ -1,0 +1,29 @@
+Host aac05
+    HostName 10.100.139.247
+    User vmuser
+    IdentityFile ~/.ssh/AAC05.key
+
+Host aac05-1
+    HostName 192.168.117.167
+    User vmuser
+    ProxyJump aac05
+    IdentityFile ~/.ssh/AAC05.key
+
+Host aac05-2
+    HostName 192.168.117.114
+    User vmuser
+    ProxyJump aac05
+    IdentityFile ~/.ssh/AAC05.key
+
+Host aac05-3
+    HostName 192.168.117.158
+    User vmuser
+    ProxyJump aac05
+    IdentityFile ~/.ssh/AAC05.key
+
+Host aac05-4
+    HostName 192.168.117.119
+    User vmuser
+    ProxyJump aac05
+    IdentityFile ~/.ssh/AAC05.key
+

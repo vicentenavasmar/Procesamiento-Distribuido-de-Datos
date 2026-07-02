@@ -1,0 +1,8 @@
+/home/vicenteN/Desktop/Practica1AAC/Practica1_memoria_compartida/build/CMakeFiles/edit_cache.dir
+/home/vicenteN/Desktop/Practica1AAC/Practica1_memoria_compartida/build/CMakeFiles/rebuild_cache.dir
+/home/vicenteN/Desktop/Practica1AAC/Practica1_memoria_compartida/build/libDomain/CMakeFiles/libDomain.dir
+/home/vicenteN/Desktop/Practica1AAC/Practica1_memoria_compartida/build/libDomain/CMakeFiles/edit_cache.dir
+/home/vicenteN/Desktop/Practica1AAC/Practica1_memoria_compartida/build/libDomain/CMakeFiles/rebuild_cache.dir
+/home/vicenteN/Desktop/Practica1AAC/Practica1_memoria_compartida/build/computeDistributed/CMakeFiles/computeDistributed.dir
+/home/vicenteN/Desktop/Practica1AAC/Practica1_memoria_compartida/build/computeDistributed/CMakeFiles/edit_cache.dir
+/home/vicenteN/Desktop/Practica1AAC/Practica1_memoria_compartida/build/computeDistributed/CMakeFiles/rebuild_cache.dir

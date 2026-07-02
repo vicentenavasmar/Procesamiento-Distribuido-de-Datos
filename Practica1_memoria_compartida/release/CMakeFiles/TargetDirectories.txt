@@ -1,0 +1,8 @@
+/home/vicente/Escritorio/Practica1AAC/Practica1_memoria_compartida/release/CMakeFiles/edit_cache.dir
+/home/vicente/Escritorio/Practica1AAC/Practica1_memoria_compartida/release/CMakeFiles/rebuild_cache.dir
+/home/vicente/Escritorio/Practica1AAC/Practica1_memoria_compartida/release/libDomain/CMakeFiles/libDomain.dir
+/home/vicente/Escritorio/Practica1AAC/Practica1_memoria_compartida/release/libDomain/CMakeFiles/edit_cache.dir
+/home/vicente/Escritorio/Practica1AAC/Practica1_memoria_compartida/release/libDomain/CMakeFiles/rebuild_cache.dir
+/home/vicente/Escritorio/Practica1AAC/Practica1_memoria_compartida/release/computeShared/CMakeFiles/computeShared.dir
+/home/vicente/Escritorio/Practica1AAC/Practica1_memoria_compartida/release/computeShared/CMakeFiles/edit_cache.dir
+/home/vicente/Escritorio/Practica1AAC/Practica1_memoria_compartida/release/computeShared/CMakeFiles/rebuild_cache.dir
